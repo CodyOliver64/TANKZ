@@ -1,0 +1,24 @@
+﻿  ArenaManager.cpp
+  AudioManager.cpp
+  BulletManager.cpp
+  game.cpp
+  GameObject.cpp
+  keyProcess.cpp
+  object.cpp
+  openGLFramework.cpp
+C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\openGLFramework.cpp(78,15): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\openGLFramework.cpp(369,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  openGLStuff.cpp
+  PlayerManager.cpp
+  random.cpp
+  ShapeDraw.cpp
+  SoundSystem.cpp
+  Sprite.cpp
+  SpriteManager.cpp
+  Generating Code...
+soil.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\Debug\vc90.pdb'; linking object as if no debug info
+  OpenGL Framework.vcxproj -> C:\Users\coliver\OneDrive - University of Central Florida\Desktop\New folder\TANKZ\Debug\OpenGL Framework.exe
